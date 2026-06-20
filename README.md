@@ -7,6 +7,8 @@ editing locked to a single owner account.
 
 Built on Next.js (App Router), Convex, Clerk, BlockNote, and Cloudflare R2.
 
+**Live demo:** [studynotes.terrydjony.com](https://studynotes.terrydjony.com)
+
 ![Documents](public/documents.png)
 
 ## Features
